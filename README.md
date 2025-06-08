@@ -64,7 +64,7 @@ This tool supports all image formats supported by Pillow, including but not limi
 * BMP
 * GIF (single frame)
 * TIFF
-
+* Any picture can be used for reference just use the image entitled under original.png
 ---
 
 ## 🧪 Example Usage
